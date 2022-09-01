@@ -1,6 +1,6 @@
 <h1>Блог<h1>
 
-Полноценный блог созданый на базе Django с помощью bootstrap шаблонов.
+Полноценный готовый к работе блог созданый на базе Django с помощью bootstrap шаблонов и поддержкой пользователей.
 Blog on Django base created with help bootstrap templates.<hr/>
 <figure>
 <figcaption>
