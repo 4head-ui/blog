@@ -15,4 +15,12 @@ Main page.
 Registration page.
 </figcaption>
 <img src = 'intro2.png'>
+</figure><hr/>
+<figure>
+<figcaption>
+Вид страницы создания тем.
+Topic,description creation page.
+</figcaption>
+<img src = 'intro3.png'>
 </figure>
+
