@@ -9,3 +9,10 @@ Blog on Django base created with help bootstrap templates.
 Main page.
 </figcaption>
 </figure>
+<figure>
+<img src = 'intro2.png'>
+<figcaption>
+Вид страницы регистрации.
+Registration page.
+</figcaption>
+</figure>
