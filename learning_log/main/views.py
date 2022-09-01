@@ -5,14 +5,9 @@ from .forms import TopicForm, EntryForm
 from django.http import Http404
 
 
-
 def index(request):
     """Домашняя страница приложения Learning Log"""
     return render(request, 'main/index.html')
-
-def learn(request):
-    """Домашняя страница приложения Learning Log"""
-    return render(request, 'main/learn.html')
 
 
 @login_required
